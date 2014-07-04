@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 16
-=======
-15 - Save local changes in a local branch
->>>>>>> 1
+
